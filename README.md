@@ -1,2 +1,2 @@
-# challengeOAuth2
-OAuth2 Authorization Server
+# challengeOAuth2: OAuth2 Authorization Server
+
